@@ -1,4 +1,4 @@
 .idea
 venv
 IGN_IGNORE
-*__py
+*.pyc
