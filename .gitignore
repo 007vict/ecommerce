@@ -1,6 +1,6 @@
 .idea
 venv
-IGN_IGNORE
+IGN_README
 *.pyc
 db.sqlite3
 __pycache__
