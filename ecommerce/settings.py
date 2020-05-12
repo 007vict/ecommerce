@@ -28,6 +28,7 @@ INSTALLED_APPS = [
 
     #our products
     'carts',
+    'orders',
     'products',
     'search',
     'tags',
