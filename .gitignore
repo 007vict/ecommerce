@@ -2,3 +2,5 @@
 venv
 IGN_IGNORE
 *.pyc
+db.sqlite3
+__pycache__
